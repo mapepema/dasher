@@ -1,2 +1,11 @@
 # dasher
-game jam 2h
+
+## Run
+
+```sh
+npm install -g http-server
+```
+
+```sh
+http-server
+```
